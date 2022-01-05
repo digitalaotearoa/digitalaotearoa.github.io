@@ -20,10 +20,10 @@ The first and easiest step is to subscribe to our mailing list, where we will be
 
 Beyond that, there are many ways to get involved:
 
-- Join our [community chat server](FIXME) to talk, share, learn, collaborate and to keep up with others
-- Starting in February 2022, there will be a [community town hall](FIXME) every Friday at 1200 NZT to share news and showcase projects
+- Join our [community chat server](chat) to talk, share, learn, collaborate and to keep up with others
+- Starting in February 2022, there will be a [community town hall](townhall) every Friday at 1200 NZT to share news and showcase projects
 - Share your ideas for [optimistic and pessimistic futures](https://govzeroaotearoa.github.io/futures)
-- You can participate in an [existing project](FIXME) or add your own
+- You can participate in an [existing project](projects) or add your own
 - You can share an idea, problem or opportunity that others might also want to discuss, and perhaps form a project around
 - You can join the "Community development" project to help grow this community around Aotearo
 - You can contribute funding or help apply for grants to support projects that need help

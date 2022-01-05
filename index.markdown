@@ -5,7 +5,6 @@
 layout: home
 ---
 
-# Welcome to Gov Zero Aotearoa
 
 Every day we are all encouraged to work in siloes, separated from each other across organisations, sectors, geography, communities, cultures and disciplines. But the challenges facing us all can not be solved by a divided community.
 

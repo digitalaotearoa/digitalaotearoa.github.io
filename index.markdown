@@ -8,7 +8,7 @@ layout: home
 
 Every day we are all encouraged to work in siloes, separated from each other across organisations, sectors, geography, communities, cultures and disciplines. But the challenges facing us all can not be solved by a divided community.
 
-Gov Zero Aotearoa is a grassroots **civil society initiative** in New Zealand, created to bring people together who want to help people and solve problems through open collaboration. We intentionally step outside of our professional boxes to bring our skills, hopes, values and humanity together, so we can solve real world problems in a more open way.
+Gov Zero Aotearoa (g0v for short) is a grassroots **civil society initiative** in New Zealand, created to bring people together who want to help people and solve problems through open collaboration. We intentionally step outside of our professional boxes to bring our skills, hopes, values and humanity together, so we can solve real world problems in a more open way.
 
 **Anyone can join** and contribute, and **everyone is welcome**. We are purposefully working together as a distributed collective of people from all walks of life, supported to cluster around self-directed projects of mutual interest and shared goals. We've been inspired by the [Gov Zero efforts in Taiwan](<https://g0v.tw/intl/en/manifesto/en/>).
 
@@ -20,12 +20,13 @@ The first and easiest step is to subscribe to our mailing list, where we will be
 
 Beyond that, there are many ways to get involved:
 
-- Join our community chat server to talk, share, learn, collaborate and to keep up with others
-- Starting in February 2022, there will be a community town hall every Friday at 1200 NZT to share news and showcase projects
-- You could participate in a project or add your own
+- Join our [community chat server](FIXME) to talk, share, learn, collaborate and to keep up with others
+- Starting in February 2022, there will be a [community town hall](FIXME) every Friday at 1200 NZT to share news and showcase projects
+- Share your ideas for [optimistic and pessimistic futures](https://govzeroaotearoa.github.io/futures)
+- You can participate in an [existing project](FIXME) or add your own
 - You can share an idea, problem or opportunity that others might also want to discuss, and perhaps form a project around
-- You could join the "Community development" project to help grow this community
-- You could contribute funding or help apply for grants to support projects that need help
+- You can join the "Community development" project to help grow this community around Aotearo
+- You can contribute funding or help apply for grants to support projects that need help
 
 We also encourage professional organisations and NGOs to support your staff to participate in Gov Zero Aotearoa on work time, and to engage or partner with projects where there are shared goals.
 

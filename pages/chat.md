@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /chat/
 ---
 
 # Join our community chat server

@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-Every day we are all encouraged to work in siloes, separated from each other across organisations, sectors, geography, communities, cultures and disciplines. But the challenges facing us all can not be solved by a divided community.
+Every day we are all encouraged to work in siloes, separated from each other across organisations, sectors, geography, communities, cultures and disciplines. But the challenges and opportunities facing us all can not be solved by a divided community.
 
 Gov Zero Aotearoa (g0v for short) is a grassroots **civil society initiative** in New Zealand, created to bring people together who want to help people and solve problems through open collaboration. We intentionally step outside of our professional boxes to bring our skills, hopes, values and humanity together, so we can solve real world problems in a more open way.
 
@@ -20,16 +20,16 @@ The first and easiest step is to subscribe to our mailing list, where we will be
 
 Beyond that, there are many ways to get involved:
 
-- Join our [community chat server](chat) to talk, share, learn, collaborate and to keep up with others
-- Starting in February 2022, there will be a [community town hall](townhall) every Friday at 1200 NZT to share news and showcase projects
+- Join our [general notifications mailing list](https://mailchi.mp/1b0bd6351e7f/govzeroaotearoa-updates) to get updates and announcements
+- Join us on [our slack](https://join.slack.com/t/digitalaotearoa/shared_invite/zt-12zvsey93-uiTgn3ddyriYPUYOs_rHnw) to talk, share, learn, collaborate and to keep up with others
+- Starting in March 2022, there will be a [community town hall](townhall) every Friday at 1200 NZT to share news and showcase projects
 - Share your ideas for [optimistic and pessimistic futures](https://govzeroaotearoa.github.io/futures)
 - You can participate in an [existing project](projects) or add your own
-- You can share an idea, problem or opportunity that others might also want to discuss, and perhaps form a project around
-- You can join the "Community development" project to help grow this community around Aotearo
-- You can contribute funding or help apply for grants to support projects that need help
+- Share an idea, problem or opportunity that others might also want to discuss, and perhaps form a project around
+- Join the "Community development" project to help grow this community around Aotearoa
+- Or, you can contribute funding or help apply for grants to support projects that need help
 
 We also encourage professional organisations and NGOs to support your staff to participate in Gov Zero Aotearoa on work time, and to engage or partner with projects where there are shared goals.
-
 
 ## Community projects
 

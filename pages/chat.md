@@ -5,7 +5,4 @@ permalink: /chat/
 
 # Join our community chat server
 
-The g0v Aotearoa communtiy runs a Rocket Chat server. You can connect and signup within a web browser, or sign up 
-then connect using a desktop or mobile application...
-
-FIXME
+The g0v Aotearoa communtiy is on Slack at https://join.slack.com/t/digitalaotearoa/shared_invite/zt-12zvsey93-uiTgn3ddyriYPUYOs_rHnw please join us there :)

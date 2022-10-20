@@ -8,11 +8,11 @@ layout: home
 
 Every day we are all encouraged to work in siloes, separated from each other across organisations, sectors, geography, communities, cultures and disciplines. But the challenges and opportunities facing us all can not be solved by a divided community.
 
-Gov Zero Aotearoa (g0v for short) is a grassroots **civil society initiative** in New Zealand, created to bring people together who want to help people and solve problems through open collaboration. We intentionally step outside of our professional boxes to bring our skills, hopes, values and humanity together, so we can solve real world problems in a more open way.
+The Digital Aotearoa Collective (DAC for short) is a grassroots **civil society initiative** in New Zealand, created to bring people together who want to help people and solve problems through open collaboration. We intentionally step outside of our professional boxes to bring our skills, hopes, values and humanity together, so we can solve real world problems in a more open way.
 
 **Anyone can join** and contribute, and **everyone is welcome**. We are purposefully working together as a distributed collective of people from all walks of life, supported to cluster around self-directed projects of mutual interest and shared goals. We've been inspired by the [Gov Zero efforts in Taiwan](<https://g0v.tw/intl/en/manifesto/en/>).
 
-We are currently in the earliest stage of establishment, and intend to take the first couple of months in 2022 to co-create our approach for Aotearoa New Zealand, to be suitable for our local context and in line with mātauranga Māori. Please join us to help shape Gov Zero Aotearoa :)
+We are currently in the earliest stage of establishment, and intend to take the first couple of months in 2022 to co-create our approach for Aotearoa New Zealand, to be suitable for our local context and in line with mātauranga Māori. Please join us to help shape the Digital Aotearoa Collective :)
 
 ## Get involved
 
@@ -23,13 +23,13 @@ Beyond that, there are many ways to get involved:
 - Join our [general notifications mailing list](https://mailchi.mp/1b0bd6351e7f/govzeroaotearoa-updates) to get updates and announcements
 - Join us on [our slack](https://join.slack.com/t/digitalaotearoa/shared_invite/zt-12zvsey93-uiTgn3ddyriYPUYOs_rHnw) to talk, share, learn, collaborate and to keep up with others
 - Starting in March 2022, there will be a [community town hall](townhall) every Friday at 1200 NZT to share news and showcase projects
-- Share your ideas for [optimistic and pessimistic futures](https://govzeroaotearoa.github.io/futures)
+- Share your ideas for [optimistic and pessimistic futures](https://digitalaotearoa.github.io/futures/)
 - You can participate in an [existing project](projects) or add your own
 - Share an idea, problem or opportunity that others might also want to discuss, and perhaps form a project around
 - Join the "Community development" project to help grow this community around Aotearoa
 - Or, you can contribute funding or help apply for grants to support projects that need help
 
-We also encourage professional organisations and NGOs to support your staff to participate in Gov Zero Aotearoa on work time, and to engage or partner with projects where there are shared goals.
+We also encourage professional organisations and NGOs to support your staff to participate in the Digital Aotearoa Collective on work time, and to engage or partner with projects where there are shared goals.
 
 ## Community projects
 
@@ -37,7 +37,7 @@ Anyone can propose or add a project. We will add links and information in the co
 
 ## About us
 
-Gov Zero Aotearoa was started by a diverse group of individuals from across Aotearoa New Zealand, with every intent to establish a self-governing, equitable and shared purpose community of doers, that get on with solving problems. The initial crew were Jo Allum, Pia Andrews, Jonah Duckles, Robert O'Brien, Arama Maitara, Hamish Fraser, Tom Barraclough, Ben Tairea, Brenda Wallace, Siobhan McCarthy, Regan Gilmour and more.
+The Digital Aotearoa Collective was started by a diverse group of individuals from across Aotearoa New Zealand, with every intent to establish a self-governing, equitable and shared purpose community of doers, that get on with solving problems. The initial crew were Jo Allum, Pia Andrews, Jonah Duckles, Robert O'Brien, Arama Maitara, Hamish Fraser, Tom Barraclough, Ben Tairea, Brenda Wallace, Siobhan McCarthy, Regan Gilmour and more.
 
 We are also going to have an Advisory Circle that all projects can go to for advice, and to help ensure our Community development project stays true. More on that soon!
 
